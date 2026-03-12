@@ -103,7 +103,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 If you have any questions or suggestions, feel free to reach out.
 
-**Author:** Your Name  
+**Author:** Christy kishore kumar 
 **GitHub:** https://github.com/yourusername
 
 ---

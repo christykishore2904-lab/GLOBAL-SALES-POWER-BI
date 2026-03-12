@@ -62,7 +62,7 @@ The dashboard allows users to:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](/preview.png)
 
 ---
 
